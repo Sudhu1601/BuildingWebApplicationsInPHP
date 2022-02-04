@@ -1,15 +1,16 @@
 <!doctype html>
-<html>
+<html lang="en">
 <head>
-<title>... Anamitra Musib 659b8b ...</title>
+<title>... Name ...</title>
 
 </head>
 <body>
 <em>Emphasized text</em>
 <div style="color:#0000FF">
 <h1><strong> <span style="color:blue">blue</span>SAMSUNG </strong></h1>
+<h2><strong><span style="color:black">black</span>Iphone</strong></h2>
 </div>
-<img src="th.jpg" alt="mobile">
+<img src="iphone.jpeg" alt="Iphone">
 <strong>&lt; class="feature" &gt;FEATURES</strong>
  <a href="https://www.google.com">Visit google.com!</a>
 
